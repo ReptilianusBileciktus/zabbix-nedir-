@@ -6,9 +6,9 @@ Zabbix; network, servers, applications, services ve cloud ortamlarımızı gözl
  
 ## Dashboard
 Bu kısımda mevcut sistemimize ait genel bilgileri görmekteyiz. Halihazırda bulunan host ya da host gruplarımızı customize ederek meydana gelen severity değerlerimizi analiz edebiliriz. Bu sayede sistemimizi kontrol altında tutabiliriz.
-
+<img>
 ![enter image description here](httpsraw.githubusercontent.comReptilianusBileciktuszabbix-nedir-main1.png)
-<img src="httpsraw.githubusercontent.comReptilianusBileciktuszabbix-nedir-main1.png" width="auto">
+</img>
 
 ## Problems
 Bu kısımda ise problemler ile ilgili detayları, problemin meydana geldiği hostu ve aynı şekilde problemin meydana geldiği zamanı ya da ne zamandır problem devam ediyor gibi etkenlerin dışında o problem aynı host üzerinde daha önce kaç kez görüldü gibi istatistikleri görebiliriz.
